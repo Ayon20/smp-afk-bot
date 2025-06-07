@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minecraft-data": "^3.89.0",
-    "mineflayer": "^4.6.1",
-    "mineflayer-pathfinder": "^2.4.5"
-  }
+  "minecraft-data": "^3.91.0",
+  "mineflayer": "^4.7.0",
+  "mineflayer-pathfinder": "^2.4.5"
+}
 }
