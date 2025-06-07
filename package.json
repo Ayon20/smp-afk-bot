@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "mineflayer": "^4.7.0",
-    "minecraft-data": "^3.90.0",
+    "minecraft-data": "^3.89.0",
     "mineflayer-pathfinder": "^2.4.5"
   }
 }
